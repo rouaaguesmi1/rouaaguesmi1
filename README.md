@@ -43,6 +43,6 @@ Welcome to my little corner of code and creativity! I'm a passionate coder divin
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=rouaaguesmi1&icon=7&color=11)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=rouaaguesmi1&icon=7&color=11)]()
 
 *Crafted with passion and a sprinkle of magic ✨*
