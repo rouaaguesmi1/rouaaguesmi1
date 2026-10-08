@@ -1,4 +1,4 @@
-# Rouaa Guesmi — AI Engineer & Intelligent Systems Architect
+# Rouaa Guesmi  :  AI Engineer & Intelligent Systems Architect
 
 Welcome to the intersection of **artificial intelligence, scalable systems, and real-world impact**.
 
